@@ -19,9 +19,11 @@ html
 body
     font-family: "Poppins", sans-serif
     background: var.$color-bg
-    color: var.$color-white
+    color: var.$color-dark
     line-height: 1.7
     background-image: url(../src/assets/bg-texture.png)
+    background-position: center
+    background-position-y: -320px
 
 .container
     width: var.$container-width-lg
@@ -47,7 +49,7 @@ section
 
 section > h2, section > h5
     text-align: center
-    color: var.$color-light
+    color: var.$color-dark
 
 section > h2
     color: var.$color-light
@@ -56,7 +58,7 @@ section > h2
         margin-bottom: 2rem
 
 .text-light
-    color: var.$color-light
+    color: var.$color-dark
 
 a 
     color: var.$color-primary
@@ -73,13 +75,18 @@ a
     cursor: pointer
     border: 1px solid var.$color-primary
     transition: var.$transition
+    background: var.$color-primary-variant
     &:hover
         background: var.$color-white
-        color: var.$color-bg
+        color: var.$color-dark
         border-color: transparent
+    @media screen and (max-width: 400px)
+        font-size: 0.8em
 .btn-primary
     background: var.$color-primary
     color: var.$color-bg
+    padding: 0.75rem 1.2rem
+
 
 img
     display: block
