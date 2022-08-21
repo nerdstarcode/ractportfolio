@@ -3,7 +3,7 @@ import './index.sass'
 
 function Testemonials() {
   return (
-    <div>Testemonials</div>
+    <section id="testemonials">Testemonials</section>
   )
 }
 

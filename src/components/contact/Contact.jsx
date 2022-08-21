@@ -3,7 +3,7 @@ import './index.sass'
 
 function Contact() {
   return (
-    <div>Contact</div>
+    <section id="contact">Contact</section>
   )
 }
 

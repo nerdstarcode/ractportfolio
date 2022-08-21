@@ -3,7 +3,7 @@ import './index.sass'
 
 function Portfolio() {
   return (
-    <div>Portfolio</div>
+    <section id="portfolio">Portfolio</section>
   )
 }
 
