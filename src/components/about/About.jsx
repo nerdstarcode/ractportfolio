@@ -35,7 +35,7 @@ function About() {
             </article>
           </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, sit doloremque? Aliquid, facere perspiciatis excepturi sequi incidunt iure eum aut, earum provident eveniet sed, rerum amet officiis! Temporibus, ratione maxime?
+              Iniciei a caminhar sobre esse caminho do desenvolvimento em novembro de 2021, fiz um curso de desenvolvimento web pelo Senac, o que me fez notar que a carreira como dev é realmente o que desejo para meu futuro, então assim que terminei o curso iniciei uma faculdade de Ciência da Computação, hoje estou cursando essa faculdade e faço parte da empresa júnior SignalJR, que tem como principal produto a solução tecnológica, tanto em identidade visual quanto para o desenvolvimentom, minha próxima meta é um estágio em alguma empresa, e sempre continuar me superando e aprendendo.
             </p>
             <a href="" className="btn btn-primary">Vamos conversar</a>
         </div>
