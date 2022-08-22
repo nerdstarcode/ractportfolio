@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ractportfolio/static/css/main.f988834f.css",
-    "main.js": "/ractportfolio/static/js/main.2a5aad62.js",
+    "main.css": "/ractportfolio/static/css/main.3509c86f.css",
+    "main.js": "/ractportfolio/static/js/main.a6ebb436.js",
     "static/media/me.png": "/ractportfolio/static/media/me.9d8d6c29b6d7c7043edf.png",
     "static/media/cv.pdf": "/ractportfolio/static/media/cv.1dcb26bccf11bf9b8330.pdf",
     "static/media/me-about.png": "/ractportfolio/static/media/me-about.fbaf2b9ee1bc17782cd7.png",
     "static/media/bg-texture.png": "/ractportfolio/static/media/bg-texture.ccae7bb9115eb34dad7f.png",
     "index.html": "/ractportfolio/index.html",
-    "main.f988834f.css.map": "/ractportfolio/static/css/main.f988834f.css.map",
-    "main.2a5aad62.js.map": "/ractportfolio/static/js/main.2a5aad62.js.map"
+    "main.3509c86f.css.map": "/ractportfolio/static/css/main.3509c86f.css.map",
+    "main.a6ebb436.js.map": "/ractportfolio/static/js/main.a6ebb436.js.map"
   },
   "entrypoints": [
-    "static/css/main.f988834f.css",
-    "static/js/main.2a5aad62.js"
+    "static/css/main.3509c86f.css",
+    "static/js/main.a6ebb436.js"
   ]
 }
