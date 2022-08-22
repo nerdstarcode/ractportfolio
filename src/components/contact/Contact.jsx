@@ -41,7 +41,7 @@ function Contact() {
             <SiWhatsapp className="contact__option-icon"/>
             <h4>Whatsapp</h4>
             <h5>+55 21 98730-4708</h5>
-            <a target="_blank" href="https://api.whatsapp.com/send?phone+5521987304708">Envie uma mensagem</a>
+            <a target="_blank" href="https://api.whatsapp.com/send?phone=5521987304708">Envie uma mensagem</a>
           </article>
         </div>
         <form ref={form} onSubmit={sendEmail}>

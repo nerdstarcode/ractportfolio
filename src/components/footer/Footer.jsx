@@ -23,7 +23,7 @@ function Footer() {
         <a href="https://github.com/nerdstarcode"><BsGithub/></a>
         <a href="https://www.linkedin.com/in/sthiven-melo-a67a1722b/"><RiLinkedinBoxLine/></a>
         <a href="https://www.instagram.com/nerd_star_code/?hl=en"><BsInstagram/></a>
-        <a href="https://api.whatsapp.com/send?phone+5521987304708"><SiWhatsapp/></a>
+        <a href="https://api.whatsapp.com/send?phone=5521987304708"><SiWhatsapp/></a>
       </div>
       <div className="footer__copyright">
         <small>
