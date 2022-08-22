@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ractportfolio/static/css/main.646c3266.css",
-    "main.js": "/ractportfolio/static/js/main.ffda06e5.js",
+    "main.css": "/ractportfolio/static/css/main.7035c713.css",
+    "main.js": "/ractportfolio/static/js/main.3d04cda9.js",
     "static/media/me.png": "/ractportfolio/static/media/me.9d8d6c29b6d7c7043edf.png",
     "static/media/01-Signal.png": "/ractportfolio/static/media/01-Signal.ba7e4c15c8463432c238.png",
     "static/media/05-Port.png": "/ractportfolio/static/media/05-Port.7e93525dd548bba1eb57.png",
@@ -12,12 +12,13 @@
     "static/media/04-Dashboard.png": "/ractportfolio/static/media/04-Dashboard.8c9cb304a8226ae6b2de.png",
     "static/media/bg-texture.png": "/ractportfolio/static/media/bg-texture.ccae7bb9115eb34dad7f.png",
     "static/media/06-Login.png": "/ractportfolio/static/media/06-Login.4cec30bc13db54071de6.png",
+    "static/media/a.png": "/ractportfolio/static/media/a.5d0e64f4f58b9942d95c.png",
     "index.html": "/ractportfolio/index.html",
-    "main.646c3266.css.map": "/ractportfolio/static/css/main.646c3266.css.map",
-    "main.ffda06e5.js.map": "/ractportfolio/static/js/main.ffda06e5.js.map"
+    "main.7035c713.css.map": "/ractportfolio/static/css/main.7035c713.css.map",
+    "main.3d04cda9.js.map": "/ractportfolio/static/js/main.3d04cda9.js.map"
   },
   "entrypoints": [
-    "static/css/main.646c3266.css",
-    "static/js/main.ffda06e5.js"
+    "static/css/main.7035c713.css",
+    "static/js/main.3d04cda9.js"
   ]
 }
